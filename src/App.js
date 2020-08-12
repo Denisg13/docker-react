@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>Я поменял эту надпись !
+        <p>CHANGED ON BRANCH FEATURE 
           
         </p>
         <a
